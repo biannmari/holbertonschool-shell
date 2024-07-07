@@ -1,5 +1,2 @@
 #!/bin/bash
-touch #!/bin/bash
-
-# Crear un archivo vacío llamado 'hello' en el directorio 'permissions'
-touch /home/marisolmcabrera/holbertonschool-shell/permissions/hello
+touch hello
