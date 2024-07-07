@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod ugo+rwx hello
+su student_jail chmod ugo+x hello
