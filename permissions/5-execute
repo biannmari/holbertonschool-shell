@@ -1,2 +1,2 @@
 #!/bin/bash
-su student_jail chmod ugo+x hello
+chmod 744 hello
