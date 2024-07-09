@@ -1,2 +1,2 @@
 #!/bin/bash
-count=$(find . -type d | grep -v '^\.$' | grep -v '^\.\.$' | wc -l) | echo $count
+count=$(find . -type d ! -path . | wc -l) | echo $count
